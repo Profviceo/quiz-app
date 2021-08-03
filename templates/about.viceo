@@ -6,13 +6,13 @@
           <h1 class="cover-heading">About Me!</h1>
           <p class="lead">Enthusiastic Developer with strong affinity for tech . Skilled in HTML, CSS, SASS, JavaScript, WordPress, PHP and Laravel. Looking out for opportunities as a developer in a team or in a project.</p>
           <p class="lead">
-            <a href="https://github.com/profviceo" class="btn btn-lg btn-primary">Know more</a>
+            <a href="https://github.com/viceodev" class="btn btn-lg btn-primary">Know more</a>
           </p>
         </main>
   
         <footer class="mastfoot mt-auto">
           <div class="inner">
-            <p>Designed with <span class="text-danger">&hearts;</span> by <a href="www.linkedin.com/in/victor-okonkwo-5467401a5">Viceo</a></p>
+            <p>Designed with <span class="text-danger">&hearts;</span> by <a href="https://github.com/viceodev">Viceo</a></p>
           </div>
         </footer>
       </div>
