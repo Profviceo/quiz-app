@@ -1,4 +1,11 @@
 
+    <style>
+        @media screen and (max-width: 768px){
+            div.container{
+              width: 90%;
+            }        
+        }
+    </style>
     <div class="container d-flex h-100 p-3 mx-auto flex-column text-center mt-5" style="width: 50%;">
           
         <main role="main" class="inner cover">
